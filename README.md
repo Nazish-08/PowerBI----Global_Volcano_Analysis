@@ -43,7 +43,7 @@ The main objectives of this project were:
 
 ### 🌋 Global Volcano Analysis Dashboard
 
-![Global Volcano Analysis Dashboard](Global%20Volcano%20Dashboard.png)
+![Global Volcano Analysis Dashboard](Global%20Volcano%20Analysis%20Dashboard%20Image.png)
 
 The dashboard provides an interactive visual representation of the global volcano dataset.
 
